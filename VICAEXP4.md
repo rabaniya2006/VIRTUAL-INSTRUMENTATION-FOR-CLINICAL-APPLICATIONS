@@ -21,6 +21,7 @@ To find the sum of 'n' natural numbers using a WHILE loop in LabVIEW.
 | 5 | Use **wiring** to make all required connections in the Block Diagram |
 | 6 | Enter input values in the **Front Panel** and **run** the program |
 
+
 ---
 
 ##  Front Panel Layout
@@ -37,10 +38,9 @@ To find the sum of 'n' natural numbers using a WHILE loop in LabVIEW.
 
 ## Output
 
-<img width="1920" height="1200" alt="VICAEXP4" src="https://github.com/user-attachments/assets/b8b27240-86b6-4123-9f64-0f4fe2ec642c" />
+<img width="1907" height="1182" alt="image" src="https://github.com/user-attachments/assets/12e0f314-8aa9-4318-a023-df81653a2bc8" />
+
 
 ##  Result
 
 Thus the sum of 'n' natural numbers using WHILE loop was successfully performed in LabVIEW.
-
-
