@@ -23,6 +23,7 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 
 ---
 
+
 ##  Front Panel Layout
 <img width="786" height="612" alt="image" src="https://github.com/user-attachments/assets/2fdb2413-7e9a-4b9a-91d7-c5d7deaca713" />
 
@@ -39,10 +40,8 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 ---
 
 ##  Output
-
-<img width="1920" height="1200" alt="VICAEXP1" src="https://github.com/user-attachments/assets/abc66b7b-79c6-44ca-82bb-8bba8091c42a" />
+<img width="1912" height="1192" alt="image" src="https://github.com/user-attachments/assets/1404795f-2270-499b-9200-ee0113db005b" />
 
 ##  Result
 
 The LabVIEW VI was successfully created. Basic arithmetic operations were performed on two numeric inputs and the results were displayed using numeric indicators on the Front Panel.
-
