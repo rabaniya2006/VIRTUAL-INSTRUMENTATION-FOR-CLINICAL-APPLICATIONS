@@ -10,6 +10,7 @@ To sort even numbers from a given set of numbers using a WHILE loop in an array 
 
 ---
 
+
 ##  Algorithm
 
 | Step | Description |
@@ -36,7 +37,8 @@ To sort even numbers from a given set of numbers using a WHILE loop in an array 
 
 ## Output
 
-<img width="1920" height="1200" alt="VICAEXP5" src="https://github.com/user-attachments/assets/fc9c1927-7a71-44c1-b334-ba09e535ecd7" />
+<img width="1257" height="741" alt="Screenshot 2026-05-21 221151" src="https://github.com/user-attachments/assets/e95cf071-cb68-4730-a409-6261a7976423" />
+
 
 ##  Result
 
