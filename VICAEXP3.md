@@ -31,6 +31,7 @@ To find the sum of 'n' numbers using a FOR loop in LabVIEW.
 
 ---
 
+
 ##  Block Diagram Description
 
 <img width="914" height="476" alt="image" src="https://github.com/user-attachments/assets/e65761f0-511a-48d0-ac16-a8b6d963dce4" />
@@ -38,10 +39,10 @@ To find the sum of 'n' numbers using a FOR loop in LabVIEW.
 
 ##  Output
 
-<img width="1920" height="1200" alt="VICAEXP3" src="https://github.com/user-attachments/assets/fda6f26c-8b20-4553-b90a-8955c9f4d1c2" />
+<img width="1901" height="1182" alt="image" src="https://github.com/user-attachments/assets/bf23a01b-ace5-4fb7-8d7d-3e898f9151fe" />
+
 
 
 ##  Result
 
 Thus the sum of 'n' natural numbers using FOR loop was successfully performed in LabVIEW.
-
